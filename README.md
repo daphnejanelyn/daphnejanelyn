@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 🌱 I'm currently a student taking my MS degree in Computer Science from De La Salle University under its integrated bachelor's-master's degree honors program.
 
