@@ -7,7 +7,7 @@
 
 🚀 Throughout the years, I have been involved in a mix of data science and machine learning research projects, i.e. fuel prediction, global school-based student health survey data, car plate detection systems. 
 
-📈 In 2024, I was an Operations and Technology Innovations intern at Procter and Gamble where I pioneered a tracking system to monitor solution deployment across 1,000+ global manufacturing plants using Microsoft SQL and PowerBi. I also Led the development of a C# web application for plant maintenance operations. 
+📈 In 2024, I was an Operations and Technology Innovations intern at Procter and Gamble where I pioneered a tracking system to monitor solution deployment across 1,000+ global manufacturing plants using Microsoft SQL and PowerBi. I also led the development of a C# web application for plant maintenance operations with integrated SSO-authentication and eliminate over 100 hours of accumulated technical debt. 
 
 👯 I’m looking to collaborate on any data science and AI Projects.
 
