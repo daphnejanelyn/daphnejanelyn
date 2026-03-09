@@ -3,7 +3,7 @@
 
 🔭 At the DLSU Bioinformatics Lab, my work is currently at the intersection of data science and bioinformatics, with a focus on the analysis of large-scale metagenomic sequence data in the profiling and analysis of antimicrobial resistance. 
 
-🧬 In Philippine Genomics Center, I implemented a start to end bioinformatics pipeline to annotate LTR retrotransposons in Abaca and Banana genomes and align RNA-seq data from drought- and tissue culture. <br>stressed samples. <br>Throughout the years, I have been involved in a mix of data science and machine learning research projects, i.e. fuel prediction, global school-based student health survey data, car plate detection systems. 
+🧬 In Philippine Genomics Center, I implemented a start to end bioinformatics pipeline to annotate LTR retrotransposons in Abaca and Banana genomes and align RNA-seq data from drought- and tissue culture stressed samples. Throughout the years, I have been involved in a mix of data science and machine learning research projects, i.e. fuel prediction, global school-based student health survey data, car plate detection systems. 
 
 📈 In 2024, I was an Operations and Technology Innovations intern at Procter and Gamble where I pioneered a tracking system to monitor solution deployment across 1,000+ global manufacturing plants using Microsoft SQL and PowerBi. I also Led the development of a C# web application for plant maintenance operations. 
 
