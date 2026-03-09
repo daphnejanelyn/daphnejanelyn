@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌱 I'm currently a student taking my MS degree in Computer Science from De La Salle University under its integrated bachelor's-master's degree honors program.
 
-🔭 At the DLSU Bioinformatics Lab, my work is currently at the intersection of data science and bioinformatics, with a focus on the analysis of large-scale metagenomic sequence data in the profiling and analysis of antimicrobial resistance. 
+🔭 At the DLSU Bioinformatics Lab, my work is currently at the intersection of data science and biology, with a focus on the analysis of large-scale metagenomic sequence data in the profiling of antimicrobial resistance and mobile genetic elements. 
 
 🧬 In Philippine Genomics Center, I implemented a start to end bioinformatics pipeline to annotate LTR retrotransposons in Abaca and Banana genomes and align RNA-seq data from drought- and tissue culture stressed samples. 
 
